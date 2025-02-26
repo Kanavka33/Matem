@@ -1,7 +1,7 @@
 import telebot
 import numexpr
 
-TOKEN = "7436673756:AAHRujMfGqhUeS8u_80QAHusKkZIqdM5IRM"
+TOKEN = ""
 
 bot = telebot.TeleBot(TOKEN)
 
